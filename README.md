@@ -1,4 +1,4 @@
-# :green_circle: Stage 04 - Challenge 02- JavaScript. :sunflower: 
+# :green_circle: Stage 04 - Challenge 02- JavaScript.  :sunflower: 
 ### **Desafio da Rocketseat para treinar conceitos básicos de lógica de programação e JavaScript.**
 
 <p align="center">
