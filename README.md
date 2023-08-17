@@ -31,4 +31,4 @@
   <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS"/> -->
 <div/>
 
-#### 👉🏽 Clique **[aqui](https://adnilsomar.github.io/Stage04-Challenge02-JS/)** e abra esse projeto no seu seu navegador. :computer_mouse:
+
